@@ -37,8 +37,8 @@ Firstly, Data loaded into Power BI from excel files and the validated. Then esta
 - KPI Cards – Total Revenue, Revenue Loss, RevPAR, Total Booking, Cancellation Rate
 - Donut Chart – Occupancy % by day type
 - Bar Charts – Revenue Analysis by month, city, property, room category
-- Line Chart - Trends by Weeks  
-![Hospitality Domain Dashbaord Report](/Hospitality Analysis.pdf)
+- Line Chart - Trends by Weeks 
+![Hospitality_Domain_Dashboard](/Hospitality%20Analysis.pdf)
 
 ---
 
