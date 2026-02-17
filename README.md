@@ -1,7 +1,7 @@
 # Hospitality Analysis Dashboard
 
 ## Overview  
-AtliQ Grand is a chain of five-star hotels operating across india for 20 years. Due to increasing competition and effective decision making the company has been loosing market share and revenue in luxury/business hotel segment. To overcome this the interactive Power BI dashboard is created that analyze key business metrics such as revenue, booking, occupancy rate, Average daily rate and ratings by customers across cities and properties. It also track weekly performance to uncover trends, monitor room utilization and evaluate booking platform effectiveness helping to improve business and make strategic decisions.
+AtliQ Grand is a chain of five-star hotels operating across india for 20 years. Due to increasing competition and ineffective decision making the company has been loosing market share and revenue in luxury/business hotel segment. To overcome this the interactive Power BI dashboard is created that analyze key business metrics such as revenue, booking, occupancy rate, Average daily rate and ratings by customers across cities and properties. It also track weekly performance to uncover trends, monitor room utilization and evaluate booking platform effectiveness helping to improve business and make strategic decisions.
 
 ---
 
